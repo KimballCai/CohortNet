@@ -1,7 +1,7 @@
-# ECHO: An Effective Cohort Discovery Framework for Interpretable Healthcare Analytics
+# ECHO: Empowering Cohort Discovery Framework for Interpretable Healthcare Analytics
 
 ----
-This is the source code for SIGMOD 2024 submission.
+This is the source code for VLDB 2024 submission.
 
 Thanks for your interest about out work.
 
