@@ -1,9 +1,9 @@
-# ECHO: Empowering Cohort Discovery Framework for Interpretable Healthcare Analytics
+# Empowering Cohort Discovery Framework for Interpretable Healthcare Analytics
 
 ----
 This is the source code for VLDB 2024 submission.
 
-Thanks for your interest about out work.
+Thanks for your interest in our work.
 
 ## Requirements
 
@@ -18,7 +18,7 @@ As for the MIMIC3 dataset, you must submit the application for data access from 
 After downloading the CSVs, you first need to build the benchmark dataset according to the [mimic3-benchmarks](https://github.com/YerevaNN/mimic3-benchmarks/),
 and filter features according to the [MIMIC-Extract](https://github.com/MLforHealth/MIMIC_Extract).
 
-## Train the CohortNet in the ECHO framework
+## Train the CohortNet in our framework
 
 Before training the CohortNet, please update the configuration first. 
 - update the root path for [dataset.py](dataset.py)
